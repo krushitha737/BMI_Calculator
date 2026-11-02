@@ -61,11 +61,11 @@ BMI = 65 / (1.70 × 1.70)
 
 ### Home Screen
 
-![BMI Calculator Home Screen](screenshots/home.png)
+![BMI Calculator Home Screen](screenshots/home.png.png)
 
 ### BMI Result Screen
 
-![BMI Calculator Result Screen](screenshots/result.png)
+![BMI Calculator Result Screen](screenshots/result.png.png)
 
 ## 📂 Project Structure
 
